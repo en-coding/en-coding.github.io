@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle:  Eijy is a computational biologist.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+He is interested in all kinds of OMICs flavors, with a focus on transcriptomics and epigenetics. He has experience in data analysis using scRNA-seq, scATAC-seq, bulk RNA-seq, 3D genome (Hi-C), and ChIP-seq. He writes scripts in Bash, R, and Python. He is almost all the time a positive mind and friendly guy. He is a good team worker looking forward to collaborating in cutting-edge projects.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+He is also interested in coffee, hiking and taking photos.
 
-What else do you need?
 
-### My story
+### My goals
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+This webpage/blog was created with two main goals:  
+1. To make me a better programmer.  
+2. To not forget the first goal.
+
+
