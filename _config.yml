@@ -14,10 +14,8 @@ author: Eijy Nagai
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Top: "https://en-coding.github.io/"
-  About Me: "aboutme"
+  Blog: "blog"
   Resume: "resume"
-  Posts: "posts"
   Publications: "publications"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -99,7 +97,6 @@ feed_show_tags: true
 keywords: "bioinformatics,genomics,transcriptomics,epigenetics"
 
 # --- Colours / background image --- #
-
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#EAEAEA"

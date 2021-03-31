@@ -19,9 +19,9 @@ BMC Med Genomics (2019), 11 (Suppl 7):127 [[BMC]](https://bmcmedgenomics.biomedc
 Leyi Wei, Shasha Luan, **Luis Augusto Eijy Nagai**, Ran Su, Quan Zou  
 Bioinformatics, v. 35, p. 1326-1333, 2019 [[Bioinformatics]](https://academic.oup.com/bioinformatics/article/35/8/1326/5102871) [[PUBMED]](https://pubmed.ncbi.nlm.nih.gov/30239627/)  
 
-\ 
-\ 
-\ 
+<br>
+<br>
+
 # Talks
 
 **Genome-wide chromatin structural analysis reveals inter-chromosomal translocations in B-cell lymphoma**  
