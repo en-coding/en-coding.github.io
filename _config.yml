@@ -15,7 +15,8 @@ author: Eijy Nagai
 
 navbar-links:
   Blog: "blog"
-  Resume: "resume"
+  About me: "aboutme"
+  Resume: "https://eijynagai.github.io/markdown-cv/"
   Publications: "publications"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
