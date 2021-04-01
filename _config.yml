@@ -15,13 +15,13 @@ author: Eijy Nagai
 
 navbar-links:
   Blog: "blog"
-  About me: "aboutme"
+  About: "about"
   Resume: "https://eijynagai.github.io/markdown-cv/"
   Publications: "publications"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Hobby: "hobby"
+#  Hobby: "hobby"
 
 # --- Logo --- #
 
