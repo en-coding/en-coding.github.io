@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle:  Eijy is a computational biologist.
+#subtitle:  Eijy is a computational biologist.
 ---
 
 ## About me
@@ -29,8 +29,8 @@ This blog has two goals:
 1. Make Eijy a better coder;
 2. Do not forget the first goal
 
-Eijy believes in the [70:20:10 learning model](https://en.wikipedia.org/wiki/70/20/10_Model_(Learning_and_Development)) to learn effectively. Basically, when learning new things you should spend around 10% of the time learning from content, 20% from others, and 70% by doing it! So, to improve the practical time I found out that blogging is really a large amount of time preparing the material and keep track of your evolution. Also, if the content is good enough, it can contribute to others and people may interact to support possible improvements. So it is a win-win.
+Eijy believes in the [70:20:10 learning model](https://en.wikipedia.org/wiki/70/20/10_Model_(Learning_and_Development)) to learn effectively. Basically, when learning new things you should spend around 10% of the time learning from content, 20% learning from others, and 70% by actually doing it! So, to execute the 70% part I found out that blogging is really a large amount of time preparing the material you just studied and also keep track of your evolution as you can always go back and check it. Also, if the content is good enough, it can contribute to others and people may interact to support possible improvements. So it is a win-win.
 
-That's it for now. Stay tunned ;)
+That's it for now. Stay tuned ;)
 
 <br><br><br>
