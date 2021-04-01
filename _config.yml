@@ -14,7 +14,7 @@ author: Eijy Nagai
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Blog: "blog"
+  Blog: "https://en-coding.github.io/"
   About: "about"
   Resume: "https://eijynagai.github.io/markdown-cv/"
   Publications: "publications"
