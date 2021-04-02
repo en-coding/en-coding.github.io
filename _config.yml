@@ -19,7 +19,9 @@ navbar-links:
   Resume: "https://eijynagai.github.io/markdown-cv/"
   Publications: "publications"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - scATAC-seq collection: "https://github.com/eijynagai/scATAC-seq"
+    - scRNA-seq collection: "https://github.com/eijynagai/scATAC-seq"
+    - my scripts: "https://github.com/eijynagai/scripts_nagai"
     - Learn markdown: "https://www.markdowntutorial.com/"
 #  Hobby: "hobby"
 
