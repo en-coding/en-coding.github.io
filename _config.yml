@@ -65,7 +65,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
+  ORCID: 0000-0002-7672-8554
   google-scholar: "https://scholar.google.com/citations?user=55GajMkAAAAJ&hl=en&oi=ao"
 
 # If you want to show a link to an RSS in the footer, add the site description here.
