@@ -4,11 +4,11 @@ title: About
 #subtitle:  Eijy is a computational biologist.
 ---
 
-## About me
+## About
 
 Eijy is a computational biologist.
 
-Eijy was always interested in studying life and the mechanisms behind the orchestration of the natural functions of living beings.
+Eijy has always been interested in studying life and the mechanisms behind the orchestration of the natural functions of living beings.
 
 Eventually, he became a biotechnologist and studied plants and microorganisms during undergrad. After, cattle and livestock genetic improvements during masters. And finally, reached PhD degree studying the malfunction of cells in the immune systems of mammals.
 
