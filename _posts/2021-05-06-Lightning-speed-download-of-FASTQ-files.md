@@ -8,6 +8,9 @@ share-img: /assets/img/path.jpg
 tags: [fastq, NCBI, SRA]
 ---
 
+This post is based on https://www.biostars.org/p/325010/
+
+
 # Step 1: Install Aspera client
 
 Actually you need to make a IBM account if you don't have it yet. You just need to register your email and validate with a an activate code. Then you're good to continue.
@@ -35,5 +38,8 @@ The installation is very fast and it will show how to include the PATH to your b
 `export PATH=/home/youruser/.aspera/cli/bin:$PATH`
 
 Done! You can check whether you did everything correctly by typing 'asc' and pressing tab to autocomplete. If it autocomplete to 'ascp' or show the option you did everything correct until this point. If not you may need to check where is your bashrc file and properly export. Please check [the first answer in this post](https://unix.stackexchange.com/questions/26047/how-to-correctly-add-a-path-to-path) for more instructions.
+
+
+# Step 2: Download the dataset
 
 
