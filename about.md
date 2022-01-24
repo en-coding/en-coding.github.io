@@ -10,13 +10,13 @@ Eijy is a computational biologist.
 
 Eijy has always been interested in studying life and the mechanisms behind the orchestration of the natural functions of living beings.
 
-Eventually, he became a biotechnologist and studied plants and microorganisms during undergrad. After, cattle and livestock genetic improvements during masters. And finally, reached PhD degree studying the malfunction of cells in the immune systems of mammals.
+Eventually, he became a biotechnologist and studied plants and microorganisms during undergrad. After, he moved to Campinas and studied genetic characteristics of cattle and livestock genetic improvements (at EMBRAPA). And finally, he reached PhD degree investigating the role of 3D chromatin structure in the gene regulation of mammal immune cells.
 
-He is interested in all kinds of [OMICs](https://en.wikipedia.org/wiki/Omics) flavors, with a focus on transcriptomics and epigenetics. He has experience in data analysis in scRNA-seq, scATAC-seq, bulk RNA-seq, 3D genome (Hi-C), and ChIP-seq. 
+He is interested in all kinds of [OMICs](https://en.wikipedia.org/wiki/Omics) flavors, with a focus on transcriptomics and epigenetics. He has experience in data analysis in scRNA-seq, scATAC-seq, bulk RNA-seq, 3D genome (Hi-C), and ChIP-seq.
 
-His background is mostly in biology, but studied and learned (or kind of) how to program and became able to write scripts in Bash, R, and Python. **This blog aims to help him improve and share some knowledge in bioinformatics and related stuff**. He is almost all the time a positive mind and friendly guy, but do not disturb him if he didn't have his daily dosage of good coffee. 
+His background is mostly in biology, but studied and learned how to program and became able to write scripts in Bash, R, and Python. **This blog aims to help him improve and share some knowledge in bioinformatics and related stuff**. He is almost all the time a positive mind and friendly guy, but do not disturb him if he didn't have his daily dosage of good coffee. 
 
-When he is not behind a monitor, he is disconnected doing [hiking and taking photos](https://www.instagram.com/nagai2030/) =)
+When he is not behind a monitor, he is disconnected doing [hiking and getting some fresh air far from the crowd](https://www.instagram.com/nagai2030/) =)
 
 You can find a complete CV here and can connect through any of the social media at the bottom of the webpage.
 
