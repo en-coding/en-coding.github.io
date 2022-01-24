@@ -24,17 +24,17 @@ Bioinformatics, v. 35, p. 1326-1333, 2019 [[Bioinformatics]](https://academic.ou
 
 # Talks
 
+**Towards understanding the orchestration of single-cell RNA-seq analysis**
+Luis Augusto Eijy Nagai
+[細胞ダイバース第4回若手ワークショップ(The 4th Cell Diversity Workshop)](http://cdiversity.umin.jp/event/index.html), O-11, Jan. 26-28, 2022, (Online), Japan.
+
 **Genome-wide chromatin structural analysis reveals inter-chromosomal translocations in B-cell lymphoma**  
 **Luis Augusto Eijy Nagai**, Sung-Joon Park, Kenta Nakai  
 [The 42nd Annual Meeting of the Molecular Biology Society of Japan](https://www2.aeplan.co.jp/mbsj2019/), 1P-0002, Dec. 3-6, 2019, Fukuoka, Japan  
 
 **Analyzing the 3D Chromatin Organization Coordinating with Gene Expression Regulation in B-cell Lymphoma**  
 **Luis Augusto Eijy Nagai**, Sung-Joon Park and Kenta Nakai  
-[IBMP2019](https://iibmp2019.tokyo/), O-3 (oral), Sep.9-11, 2019, Tokyo, Japan  
-
-**Analyzing the 3D Chromatin Organization Coordinating with Gene Expression Regulation in B-cell Lymphoma**  
-**Luis Augusto Eijy Nagai**, Sung-Joon Park and Kenta Nakai  
-[IIBMP2019](https://iibmp2019.tokyo/), P-1 (poster), Sep.9-11, 2019, Tokyo, Japan  
+[IIBMP2019](https://iibmp2019.tokyo/), oral (0-3) and poster (P-1), Sep.9-11, 2019, Tokyo, Japan  
 
 **マウス胎仔期生殖細胞におけるクロマチンリプログラミング**  
 山中 総一郎, 西原 秀典, 藤 英博, **Luis Augusto Eijy Nagai**, 橋本 浩介, 朴 聖俊, 渋谷 あおい, Ana Maria Suzuki, 田中 悠二郎, 中井 謙太, Piero Carninci, 佐々木 裕之, 塩見 春彦  
