@@ -18,7 +18,7 @@ His background is mostly in biology, but studied and learned how to program and 
 
 When he is not behind a monitor, he is disconnected doing [hiking and getting some fresh air far from the crowd](https://www.instagram.com/nagai2030/) =)
 
-You can find a complete CV [here](https://eijynagai.github.io/markdown-cv/) and can connect through any of the social media at the bottom of the webpage.
+You can find a complete CV [here](https://eijynagai.github.io/cv/) and can connect through any of the social media at the bottom of the webpage.
 
 <br><br><br>
 

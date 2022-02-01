@@ -16,7 +16,7 @@ author: Eijy Nagai
 navbar-links:
   Blog: "https://en-coding.github.io/"
   About: "about"
-  Resume: "https://eijynagai.github.io/markdown-cv/"
+  Resume: "https://eijynagai.github.io/cv/"
   Publications: "publications"
   Resources:
     - scRNA-seq collection: "https://github.com/eijynagai/scRNA-seq"
