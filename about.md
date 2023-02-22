@@ -8,9 +8,10 @@ title: About
 
 Eijy is a computational biologist.
 
-Eijy has always been interested in studying life and the mechanisms behind the orchestration of the natural functions of living beings.
+Eijy has always been interested in how life happens in different perspectives. \
+So studying life sciences and the mechanisms behind the orchestration of the natural functions of living beings was a simple and obvious path to follow.
 
-Eventually, he became a biotechnologist and studied plants and microorganisms during undergrad. After, he moved to Campinas and studied genetic characteristics of cattle and livestock genetic improvements (at EMBRAPA). And finally, he reached PhD degree investigating the role of 3D chromatin structure in the gene regulation of mammal immune cells.
+He was trained as a biotechnologist where he studied plants and microorganisms. After, he studied genetic characteristics of cattle and livestock genetic improvements (at EMBRAPA-Campinas-Brazil). And finally, he obtained his PhD degree investigating the role of chromatin structure in the gene regulation of mammal immune cells.
 
 He is interested in all kinds of [OMICs](https://en.wikipedia.org/wiki/Omics) flavors, with a focus on transcriptomics and epigenetics. He has experience in data analysis in scRNA-seq, scATAC-seq, bulk RNA-seq, 3D genome (Hi-C), and ChIP-seq.
 
