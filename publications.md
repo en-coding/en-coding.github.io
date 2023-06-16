@@ -5,6 +5,16 @@ title: Publication list
 
 # Journal
 
+**Nutrient-driven dedifferentiation of enteroendocrine cells promotes adaptive intestinal growth**  
+Hiroki Nagai, **Luis Augusto Eijy Nagai**, Sohei Tasaki, Ryuichiro Nakato, Daiki Umetsu, Erina Kuranaga, Masayuki Miura, Yuichiro Nakajima  
+Preprint (2023), [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2023.05.08.539820v1.full)  
+
+
+**Context-dependent 3D genome regulation by cohesin and related factors**  
+Ryuichiro Nakato, Toyonori Sakata, Jiankang Wang, **Luis Augusto Eijy Nagai**, Gina Miku Oba, Masashige Bando, Katsuhiko Shirahige
+Preprint (2022), [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2022.05.24.493188v1)  
+
+
 **Broad heterochromatic domains open in gonocyte development prior to de novo DNA methylation**  
 Soichiro Yamanaka, Hidenori Nishihara, Hidehiro Toh, **Luis Augusto Eijy Nagai**, Kosuke Hashimoto, Sung-Joon Park, Aoi Shibuya, Ana Maria Suzuki, Yujiro Tanaka, Kenta Nakai, Piero Carninci, Hiroyuki Sasaki, and Haruhiko Siomi  
 Dev. Cell (2019), S1534-5807(19)30629-X [[Dev.Cell]](https://www.cell.com/developmental-cell/fulltext/S1534-5807(19)30629-X) [[PUBMED]](https://www.ncbi.nlm.nih.gov/pubmed/31474564)  
@@ -37,7 +47,7 @@ Bioinformatics, v. 35, p. 1326-1333, 2019 [[Bioinformatics]](https://academic.ou
 [IIBMP2019](https://iibmp2019.tokyo/), oral (0-3) and poster (P-1), Sep.9-11, 2019, Tokyo, Japan  
 
 **マウス胎仔期生殖細胞におけるクロマチンリプログラミング**  
-山中 総一郎, 西原 秀典, 藤 英博, **Luis Augusto Eijy Nagai**, 橋本 浩介, 朴 聖俊, 渋谷 あおい, Ana Maria Suzuki, 田中 悠二郎, 中井 謙太, Piero Carninci, 佐々木 裕之, 塩見 春彦  
+_山中 総一郎_, 西原 秀典, 藤 英博, **Luis Augusto Eijy Nagai**, 橋本 浩介, 朴 聖俊, 渋谷 あおい, Ana Maria Suzuki, 田中 悠二郎, 中井 謙太, Piero Carninci, 佐々木 裕之, 塩見 春彦  
 [第21回日本RNA学会年会](https://www.rnaj.org/rna2019), P-45, Jul.17-19, 2019, Tokyo, Japan  
 
 **Genome-wide chromatin structural analysis reveals inter-chromosomal translocations in B-cell lymphoma cell line**  
