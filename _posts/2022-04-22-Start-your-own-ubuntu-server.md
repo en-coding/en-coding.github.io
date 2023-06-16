@@ -1,16 +1,3 @@
-# 
-
----
-layout: post
-title: Start your own server
-subtitle: Ubuntu Server 20.04 LTS and static IP
-cover-img: /assets/img/ubuntu_server.jpg
-thumbnail-img: /assets/img/ubuntu_thumb.png
-share-img: /assets/img/ubuntu_server.jpg
-tags: [system administrator, Ubuntu Server 20.04 LTS, Linux server]
----
-
-
 
 # Ubuntu Server 20.04 LTS
 
