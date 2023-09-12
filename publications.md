@@ -37,10 +37,13 @@ Bioinformatics, v. 35, p. 1326-1333, 2019 [[Bioinformatics]](https://academic.ou
 <br>
 
 # Talks
+**Navigating Cellular Complexity: Unraveling Gene Interactions in scRNA-seq with Signed Graphs and Network Analysis**  
+**Luis Augusto Eijy Nagai** and Ryuichiro Nakato  
+[IIBMP2023](https://smartconf.jp/content/iibmp2023/workshop), WS-1, Sep. 7-9, 2023, Chiba, Japan  
 
-**Towards understanding the orchestration of single-cell RNA-seq analysis**
-**Luis Augusto Eijy Nagai**
-[細胞ダイバース第4回若手ワークショップ(The 4th Cell Diversity Workshop)](http://cdiversity.umin.jp/event/index.html), O-11, Jan. 26-28, 2022, (Online), Japan 
+**Towards understanding the orchestration of single-cell RNA-seq analysis**  
+**Luis Augusto Eijy Nagai**  
+[細胞ダイバース第4回若手ワークショップ(The 4th Cell Diversity Workshop)](http://cdiversity.umin.jp/event/index.html), O-11, Jan. 26-28, 2022, (Online), Japan  
 
 **Genome-wide chromatin structural analysis reveals inter-chromosomal translocations in B-cell lymphoma**  
 **Luis Augusto Eijy Nagai**, Sung-Joon Park, Kenta Nakai  
