@@ -4,6 +4,12 @@ title: Publication list
 ---
 
 # Journal
+**Context-dependent   perturbations   in   chromatin   folding   and   the
+transcriptome by cohesin and related factors**  
+Ryuichiro Nakato, Toyonori Sakata, Jiankang Wang, **Luis Augusto Eijy Nagai**, Yuya Nagaoka, Gina Miku Oba, Masashige Bando and Katsuhiko Shirahige  
+Nat. Comm. (2023), [in press][[Nat.Comm.]][[PUBMED]]  
+
+
 **Nutrient-driven dedifferentiation of enteroendocrine cells promotes adaptive intestinal growth in Drosophila**  
 Hiroki Nagai, **Luis Augusto Eijy Nagai**, Sohei Tasaki, Ryuichiro Nakato, Daiki Umetsu, Erina Kuranaga, Masayuki Miura, Yuichiro Nakajima  
 Dev. Cell (2023), ISSN 1534-5807,[[Dev.Cell]](https://www.sciencedirect.com/science/article/pii/S1534580723004379?dgcid=coauthor) [[PUBMED]]()  
