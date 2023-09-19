@@ -3,7 +3,7 @@ layout: page
 title: Publication list
 ---
 
-# Journal
+# Journal, peer-reviewed
 **Context-dependent   perturbations   in   chromatin   folding   and   the
 transcriptome by cohesin and related factors**  
 Ryuichiro Nakato, Toyonori Sakata, Jiankang Wang, **Luis Augusto Eijy Nagai**, Yuya Nagaoka, Gina Miku Oba, Masashige Bando and Katsuhiko Shirahige  
@@ -13,16 +13,6 @@ Nat. Comm. (2023), [in press][[Nat.Comm.]][[PUBMED]]
 **Nutrient-driven dedifferentiation of enteroendocrine cells promotes adaptive intestinal growth in Drosophila**  
 Hiroki Nagai, **Luis Augusto Eijy Nagai**, Sohei Tasaki, Ryuichiro Nakato, Daiki Umetsu, Erina Kuranaga, Masayuki Miura, Yuichiro Nakajima  
 Dev. Cell (2023), ISSN 1534-5807,[[Dev.Cell]](https://www.sciencedirect.com/science/article/pii/S1534580723004379?dgcid=coauthor) [[PUBMED]]()  
-
-
-**Nutrient-driven dedifferentiation of enteroendocrine cells promotes adaptive intestinal growth**  
-Hiroki Nagai, **Luis Augusto Eijy Nagai**, Sohei Tasaki, Ryuichiro Nakato, Daiki Umetsu, Erina Kuranaga, Masayuki Miura, Yuichiro Nakajima  
-Preprint (2023), [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2023.05.08.539820v1.full)  
-
-
-**Context-dependent 3D genome regulation by cohesin and related factors**  
-Ryuichiro Nakato, Toyonori Sakata, Jiankang Wang, **Luis Augusto Eijy Nagai**, Gina Miku Oba, Masashige Bando, Katsuhiko Shirahige
-Preprint (2022), [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2022.05.24.493188v1)  
 
 
 **Broad heterochromatic domains open in gonocyte development prior to de novo DNA methylation**  
@@ -41,6 +31,30 @@ Bioinformatics, v. 35, p. 1326-1333, 2019 [[Bioinformatics]](https://academic.ou
 
 <br>
 <br>
+
+# Articles, commentaries
+
+**Towards an increased awareness on the importance of Computational Reproducibility in Biological Sciences in Latin America**  
+Renato Augusto Corrêa dos Santos, Alicia Lie de Melo, Maryam Chaib, **Luis Augusto Eijy Nagai**, Luisa Matiz, Tulio Campos, Raissa Melo de Sousa  
+ecrLife, Aug. 31, 2023. [[ecrLife]](https://ecrlife.org/reproducibility-in-biological-sciences-in-latin-america/)  
+
+<br>
+<br>
+
+# Preprints, submitted articles
+
+**Nutrient-driven dedifferentiation of enteroendocrine cells promotes adaptive intestinal growth**  
+Hiroki Nagai, **Luis Augusto Eijy Nagai**, Sohei Tasaki, Ryuichiro Nakato, Daiki Umetsu, Erina Kuranaga, Masayuki Miura, Yuichiro Nakajima  
+Preprint (2023), [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2023.05.08.539820v1.full)  
+
+
+**Context-dependent 3D genome regulation by cohesin and related factors**  
+Ryuichiro Nakato, Toyonori Sakata, Jiankang Wang, **Luis Augusto Eijy Nagai**, Gina Miku Oba, Masashige Bando, Katsuhiko Shirahige
+Preprint (2022), [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2022.05.24.493188v1)  
+
+<br>
+<br>
+
 
 # Talks
 **Navigating Cellular Complexity: Unraveling Gene Interactions in scRNA-seq with Signed Graphs and Network Analysis**  
