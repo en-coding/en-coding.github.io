@@ -4,10 +4,16 @@ title: Publication list
 ---
 
 # Journal, peer-reviewed
+
+**FXYD3 functionally demarcates an ancestral breast cancer stem cell subpopulation with features of drug-tolerant persisters**  
+Li M, Nishimura T, Takeuchi Y, Hongu T, Wang Y, Shiokawa D, Wang K, Hirose H, Sasahara A, Yano M, Ishikawa S, Inokuchi M, Ota T, Tanabe M, Tada K, Akiyama T, Cheng X, Liu C, Yamashita T, Sugano S, Uchida Y, Chiba T, Asahara H, Nakagawa M, Sato S, Miyagi Y, Shimamura T, **Nagai LAE**, Kanai A, Katoh M, Nomura S, Nakato R, Suzuki Y, Tojo A, Voon D, Ogawa S, Okamoto K, Foukakis T, *Gotoh N.<br>
+J. of Clin. Invest.(2023), vol 133, issue 22. [[JClinInvest]](https://www.jci.org/articles/view/166666)[[PUBMED]](https://pubmed.ncbi.nlm.nih.gov/37966117/)
+
+
 **Context-dependent   perturbations   in   chromatin   folding   and   the
 transcriptome by cohesin and related factors**  
 Ryuichiro Nakato, Toyonori Sakata, Jiankang Wang, **Luis Augusto Eijy Nagai**, Yuya Nagaoka, Gina Miku Oba, Masashige Bando and Katsuhiko Shirahige  
-Nat. Comm. (2023), [in press][[Nat.Comm.]][[PUBMED]]  
+Nat. Comm. (2023), v.14, issue 1. [[Nat. Comm.]](https://www.nature.com/articles/s41467-023-41316-4)[[PUBMED]](https://pubmed.ncbi.nlm.nih.gov/37726281/)  
 
 
 **Nutrient-driven dedifferentiation of enteroendocrine cells promotes adaptive intestinal growth in Drosophila**  
