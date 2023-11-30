@@ -18,22 +18,22 @@ Nat. Comm. (2023), v.14, issue 1. [[Nat. Comm.]](https://www.nature.com/articles
 
 **Nutrient-driven dedifferentiation of enteroendocrine cells promotes adaptive intestinal growth in Drosophila**  
 Hiroki Nagai, **Luis Augusto Eijy Nagai**, Sohei Tasaki, Ryuichiro Nakato, Daiki Umetsu, Erina Kuranaga, Masayuki Miura, Yuichiro Nakajima  
-Dev. Cell (2023), ISSN 1534-5807,[[Dev.Cell]](https://www.sciencedirect.com/science/article/pii/S1534580723004379?dgcid=coauthor) [[PUBMED]]()  
+Dev. Cell (2023), ISSN 1534-5807. [[Dev.Cell]](https://www.sciencedirect.com/science/article/pii/S1534580723004379?dgcid=coauthor) [[PUBMED]]()  
 
 
 **Broad heterochromatic domains open in gonocyte development prior to de novo DNA methylation**  
 Soichiro Yamanaka, Hidenori Nishihara, Hidehiro Toh, **Luis Augusto Eijy Nagai**, Kosuke Hashimoto, Sung-Joon Park, Aoi Shibuya, Ana Maria Suzuki, Yujiro Tanaka, Kenta Nakai, Piero Carninci, Hiroyuki Sasaki, and Haruhiko Siomi  
-Dev. Cell (2019), S1534-5807(19)30629-X [[Dev.Cell]](https://www.cell.com/developmental-cell/fulltext/S1534-5807(19)30629-X) [[PUBMED]](https://www.ncbi.nlm.nih.gov/pubmed/31474564)  
+Dev. Cell (2019), S1534-5807(19)30629-X. [[Dev.Cell]](https://www.cell.com/developmental-cell/fulltext/S1534-5807(19)30629-X) [[PUBMED]](https://www.ncbi.nlm.nih.gov/pubmed/31474564)  
 
 
 **Analyzing the 3D chromatin organization coordinating with gene expression regulation in B-cell lymphoma**  
 **Luis Augusto Eijy Nagai**, Sung-Joon Park and Kenta Nakai  
-BMC Med Genomics (2019), 11 (Suppl 7):127 [[BMC]](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-018-0437-8) [[PUBMED]](https://www.ncbi.nlm.nih.gov/pubmed/30894186)  
+BMC Med Genomics (2019), 11 (Suppl 7):127. [[BMC]](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-018-0437-8) [[PUBMED]](https://www.ncbi.nlm.nih.gov/pubmed/30894186)  
 
 
 **Exploring sequence-based features for the improved prediction of DNA N4-methylcytosine sites in multiple species**  
 Leyi Wei, Shasha Luan, **Luis Augusto Eijy Nagai**, Ran Su, Quan Zou  
-Bioinformatics, v. 35, p. 1326-1333, 2019 [[Bioinformatics]](https://academic.oup.com/bioinformatics/article/35/8/1326/5102871) [[PUBMED]](https://pubmed.ncbi.nlm.nih.gov/30239627/)  
+Bioinformatics (2019), v. 35, p. 1326-1333. [[Bioinformatics]](https://academic.oup.com/bioinformatics/article/35/8/1326/5102871) [[PUBMED]](https://pubmed.ncbi.nlm.nih.gov/30239627/)  
 
 <br>
 <br>
@@ -48,6 +48,10 @@ ecrLife, Aug. 31, 2023. [[ecrLife]](https://ecrlife.org/reproducibility-in-biolo
 <br>
 
 # Preprints, submitted articles
+**Distal regulatory sequences contribute to diversity in brain oxytocin receptor expression patterns and social behavior**  
+Qi Zhang, **Luis Augusto Eijy Nagai**, Mina Tsukamoto, Lenin C. Kandasamy, Kiyoshi Inoue, Maria F. Pires, Minsoo Shin, Yutaro Nagasawa, Tsetsegee Sambuu, Sonoko Ogawa, Kenta Nakai, Shigeyoshi Itohara, Larry J Young  
+Preprint (2023), [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2022.12.01.518660v2.full)  
+
 
 **Nutrient-driven dedifferentiation of enteroendocrine cells promotes adaptive intestinal growth**  
 Hiroki Nagai, **Luis Augusto Eijy Nagai**, Sohei Tasaki, Ryuichiro Nakato, Daiki Umetsu, Erina Kuranaga, Masayuki Miura, Yuichiro Nakajima  
