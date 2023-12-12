@@ -67,6 +67,10 @@ Preprint (2022), [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2022.05.24.
 
 
 # Talks
+**Does "Volized" mouse become more social? -Transcriptional lability of brain oxytocin receptor (Oxtr) generates diversity in brain OXTR distribution and social behaviors**  
+_Qi Zhang_, **Luis AE Nagai**, Itohara Shigeyoshi, Larry Young  
+[MBSJ2023](https://www2.aeplan.co.jp/mbsj2023/en-index.html), 2AS-09-02, Dec7, 2023. Kobe, Japan  
+
 **Navigating Cellular Complexity: Unraveling Gene Interactions in scRNA-seq with Signed Graphs and Network Analysis**  
 **Luis Augusto Eijy Nagai** and Ryuichiro Nakato  
 [IIBMP2023](https://smartconf.jp/content/iibmp2023/workshop), WS-1, Sep. 7-9, 2023, Chiba, Japan  
