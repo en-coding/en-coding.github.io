@@ -4,40 +4,45 @@ title: Publication list
 ---
 
 # Journal, peer-reviewed
+**Protocol for identifying differentially expressed genes using the RumBall RNA-seq analysis platform**  
+Luis Augusto Eijy Nagai, Seohyun Lee, Ryuichiro Nakato
+STAR Protocols (2024), vol 5, issue 1. [STAR Protocols](https://star-protocols.cell.com/protocols/3354) [PUBMED](https://pubmed.ncbi.nlm.nih.gov/38461412/)
+
+
 **Modeling embryo-endometrial interface recapitulating human embryo implantation**  
 Shun Shibata, Shun Endo, Luis A E Nagai, Eri H Kobayashi, Akira Oike, Norio Kobayashi, Akane Kitamura, Takeshi Hori, Yuji Nashimoto, Ryuichiro Nakato, Hirotaka Hamada, Hirokazu Kaji, Chie Kikutake, Mikita Suyama, Masatoshi Saito, Nobuo Yaegashi, Hiroaki Okae, Takahiro Arima  
-Sci. Adv. (2024), vol 10, issue 8. [[SciAdv-OPEN]](https://www.science.org/doi/10.1126/sciadv.adi4819)[[PUBMED]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10889356/)
+Science Advances (2024), vol 10, issue 8. [Science Advances](https://www.science.org/doi/10.1126/sciadv.adi4819) [PUBMED](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10889356/)
 
 
 **FXYD3 functionally demarcates an ancestral breast cancer stem cell subpopulation with features of drug-tolerant persisters**  
-Li M, Nishimura T, Takeuchi Y, Hongu T, Wang Y, Shiokawa D, Wang K, Hirose H, Sasahara A, Yano M, Ishikawa S, Inokuchi M, Ota T, Tanabe M, Tada K, Akiyama T, Cheng X, Liu C, Yamashita T, Sugano S, Uchida Y, Chiba T, Asahara H, Nakagawa M, Sato S, Miyagi Y, Shimamura T, **Nagai LAE**, Kanai A, Katoh M, Nomura S, Nakato R, Suzuki Y, Tojo A, Voon D, Ogawa S, Okamoto K, Foukakis T, *Gotoh N  
-J. of Clin. Invest.(2023), vol 133, issue 22. [[JClinInvest]](https://www.jci.org/articles/view/166666)[[PUBMED]](https://pubmed.ncbi.nlm.nih.gov/37966117/)
+Li M, Nishimura T, Takeuchi Y, Hongu T, Wang Y, Shiokawa D, Wang K, Hirose H, Sasahara A, Yano M, Ishikawa S, Inokuchi M, Ota T, Tanabe M, Tada K, Akiyama T, Cheng X, Liu C, Yamashita T, Sugano S, Uchida Y, Chiba T, Asahara H, Nakagawa M, Sato S, Miyagi Y, Shimamura T, **Nagai LAE**, Kanai A, Katoh M, Nomura S, Nakato R, Suzuki Y, Tojo A, Voon D, Ogawa S, Okamoto K, Foukakis T, Gotoh N  
+J. of Clin. Invest.(2023), vol 133, issue 22. [JClinInvest](https://www.jci.org/articles/view/166666) [PUBMED](https://pubmed.ncbi.nlm.nih.gov/37966117/)
 
 
 **Context-dependent   perturbations   in   chromatin   folding   and   the
 transcriptome by cohesin and related factors**  
 Ryuichiro Nakato, Toyonori Sakata, Jiankang Wang, **Luis Augusto Eijy Nagai**, Yuya Nagaoka, Gina Miku Oba, Masashige Bando and Katsuhiko Shirahige  
-Nat. Comm. (2023), v.14, issue 1. [[Nat. Comm.]](https://www.nature.com/articles/s41467-023-41316-4)[[PUBMED]](https://pubmed.ncbi.nlm.nih.gov/37726281/)  
+Nature Communications (2023), v.14, issue 1. [Nature Communications](https://www.nature.com/articles/s41467-023-41316-4) [PUBMED](https://pubmed.ncbi.nlm.nih.gov/37726281/)  
 
 
 **Nutrient-driven dedifferentiation of enteroendocrine cells promotes adaptive intestinal growth in Drosophila**  
 Hiroki Nagai, **Luis Augusto Eijy Nagai**, Sohei Tasaki, Ryuichiro Nakato, Daiki Umetsu, Erina Kuranaga, Masayuki Miura, Yuichiro Nakajima  
-Dev. Cell (2023), ISSN 1534-5807. [[Dev.Cell]](https://www.sciencedirect.com/science/article/pii/S1534580723004379?dgcid=coauthor) [[PUBMED]]()  
+Developmental Cell (2023), ISSN 1534-5807. [Developmental Cel](https://www.cell.com/developmental-cell/abstract/S1534-5807(23)00437-9) [PUBMED](https://pubmed.ncbi.nlm.nih.gov/37689060/)  
 
 
 **Broad heterochromatic domains open in gonocyte development prior to de novo DNA methylation**  
 Soichiro Yamanaka, Hidenori Nishihara, Hidehiro Toh, **Luis Augusto Eijy Nagai**, Kosuke Hashimoto, Sung-Joon Park, Aoi Shibuya, Ana Maria Suzuki, Yujiro Tanaka, Kenta Nakai, Piero Carninci, Hiroyuki Sasaki, and Haruhiko Siomi  
-Dev. Cell (2019), S1534-5807(19)30629-X. [[Dev.Cell]](https://www.cell.com/developmental-cell/fulltext/S1534-5807(19)30629-X) [[PUBMED]](https://www.ncbi.nlm.nih.gov/pubmed/31474564)  
+Developmental Cell (2019), S1534-5807(19)30629-X. [Developmental Cell](https://www.cell.com/developmental-cell/fulltext/S1534-5807(19)30629-X) [PUBMED](https://www.ncbi.nlm.nih.gov/pubmed/31474564)  
 
 
 **Analyzing the 3D chromatin organization coordinating with gene expression regulation in B-cell lymphoma**  
 **Luis Augusto Eijy Nagai**, Sung-Joon Park and Kenta Nakai  
-BMC Med Genomics (2019), 11 (Suppl 7):127. [[BMC]](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-018-0437-8) [[PUBMED]](https://www.ncbi.nlm.nih.gov/pubmed/30894186)  
+BMC Medical Genomics (2019), 11 (Suppl 7):127. [BMC Medical Genomics](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-018-0437-8) [PUBMED](https://www.ncbi.nlm.nih.gov/pubmed/30894186)  
 
 
 **Exploring sequence-based features for the improved prediction of DNA N4-methylcytosine sites in multiple species**  
 Leyi Wei, Shasha Luan, **Luis Augusto Eijy Nagai**, Ran Su, Quan Zou  
-Bioinformatics (2019), v. 35, p. 1326-1333. [[Bioinformatics]](https://academic.oup.com/bioinformatics/article/35/8/1326/5102871) [[PUBMED]](https://pubmed.ncbi.nlm.nih.gov/30239627/)  
+Bioinformatics (2019), v. 35, p. 1326-1333. [Bioinformatics](https://academic.oup.com/bioinformatics/article/35/8/1326/5102871) [PUBMED](https://pubmed.ncbi.nlm.nih.gov/30239627/)  
 
 <br>
 <br>
