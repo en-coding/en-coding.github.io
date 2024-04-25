@@ -18,6 +18,7 @@ navbar-links:
   About: "about"
   Resume: "https://eijynagai.github.io/cv/"
   Publications: "publications"
+  Coffee on you?: "https://ko-fi.com/eijynagai"
   Resources:
     - Single cell studies database: "https://docs.google.com/spreadsheets/d/1En7-UV0k0laDiIfjFkdn7dggyR7jIk3WH8QgXaMOZF0/edit#gid=0"
     - scRNA-seq collection: "https://github.com/eijynagai/scRNA-seq"
