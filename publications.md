@@ -76,6 +76,11 @@ Preprint (2022), [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2022.05.24.
 
 
 # Talks
+**Improved community detection through signed graphs in single-cell co-expression networks**  
+**Luis Augusto Eijy Nagai** and Ryuichiro Nakato  
+[ISMB2024](https://www.iscb.org/ismb2024/programme-schedule/scientific-programme/netbio), 
+593, Jul14, 2024. Montreal, Canada  
+
 **Does "Volized" mouse become more social? -Transcriptional lability of brain oxytocin receptor (Oxtr) generates diversity in brain OXTR distribution and social behaviors**  
 _Qi Zhang_, **Luis AE Nagai**, Itohara Shigeyoshi, Larry Young  
 [MBSJ2023](https://www2.aeplan.co.jp/mbsj2023/en-index.html), 2AS-09-02, Dec7, 2023. Kobe, Japan  
